@@ -1,0 +1,6 @@
+[book]
+authors = ["weibin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "一本书"
